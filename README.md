@@ -42,3 +42,35 @@ I'm an aspiring web developer. I  want to specialize in back-end technology spec
   <!-- Add more tools/languages as needed (see https://devicon.dev) -->
 </p>
 
+
+
+<!-- Current Projects -->
+## 📌 Current Projects
+
+1. **DevConf 2026 — Conference Landing Page (https://github.com/ratul-dev-28/Devconf2026)**  
+DevConf 2026 is a responsive conference landing page built as a tutorial/learning project during my Programming Hero Web Development course. The project focuses on practicing semantic HTML, CSS layouts, responsive design, and creating a clean, modern UI from a provided design.
+
+
+
+<!-- Pinned Repositories -->
+## 📂 Pinned Repositories
+
+### ratul-dev-28/Devconf2026 (https://github.com/ratul-dev-28/Devconf2026)
+**Overview:** A fictional developer conference website featuring: Navigation and hero/banner section ,Speaker showcase cards, Conference ticket/pricing plans, Additional conference information, Responsive layout for different screen sizes, Custom styling and assets
+
+**Live Link:** https://ratul-dev-28.github.io/DevConf2026/
+**Tech Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+**My Learning:**
+- Building structured webpages with semantic HTML
+- Creating responsive layouts with CSS
+- Working with Flexbox and CSS Grid
+- Converting a design into a functional webpage
+- Organizing project files and assets
+- Using Git and GitHub for version control
+- Deploying a website with GitHub Pages
+
+
+
+<p align="center">
+  <i>Let's conne
+
