@@ -11,16 +11,13 @@
 <!-- About Me -->
 ## 🚀 About Me
 
-I'm an aspiring web developer. I  want to specialize in back-end technology specially in web security and love working on on collaborative environment.
+I'm an aspiring web developer. I  want to specialize in back-end technology and love working on on collaborative environment.
 
 - 🔭 I’m currently working on DevConf2026
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on open source projects
-
-
-<!-- Social Links with Icons -->
-<h3>How to reach me:</h3>
-<p align="center">
+- How to reach me:
+<p >
   <!-- <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
   <!-- <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
   <a href="mailto:proxyrat@duck.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -47,7 +44,7 @@ I'm an aspiring web developer. I  want to specialize in back-end technology spec
 <!-- Current Projects -->
 ## 📌 Current Projects
 
-1. **DevConf 2026 — Conference Landing Page (https://github.com/ratul-dev-28/Devconf2026)**  
+1. **DevConf 2026 — Conference Landing Page ([https://github.com/ratul-dev-28/Devconf2026](https://ratul-dev-28.github.io/DevConf2026/))**  
 DevConf 2026 is a responsive conference landing page built as a tutorial/learning project during my Programming Hero Web Development course. The project focuses on practicing semantic HTML, CSS layouts, responsive design, and creating a clean, modern UI from a provided design.
 
 
@@ -59,7 +56,7 @@ DevConf 2026 is a responsive conference landing page built as a tutorial/learnin
 **Overview:** A fictional developer conference website featuring: Navigation and hero/banner section ,Speaker showcase cards, Conference ticket/pricing plans, Additional conference information, Responsive layout for different screen sizes, Custom styling and assets
 
 **Live Link:** https://ratul-dev-28.github.io/DevConf2026/
-**Tech Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+**Tech Stack:** HTML5, CSS
 **My Learning:**
 - Building structured webpages with semantic HTML
 - Creating responsive layouts with CSS
@@ -70,7 +67,6 @@ DevConf 2026 is a responsive conference landing page built as a tutorial/learnin
 - Deploying a website with GitHub Pages
 
 
-
 <p align="center">
-  <i>Let's conne
-
+  <i>Let's connect and build something amazing!</i>
+</p>
